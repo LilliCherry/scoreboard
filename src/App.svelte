@@ -16,6 +16,10 @@
       name: "Sara Wilson",
       points: 34
     }
+    {
+      name: "Jimmy Wong",
+      points: 86
+    }
 	];
 
   const addPlayer = e => {
